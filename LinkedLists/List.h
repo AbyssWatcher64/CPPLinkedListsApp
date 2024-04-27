@@ -7,6 +7,10 @@ public:
 	List();
 	~List();
 
+	// Checker
+	//bool assert();
+
+
 	// Modifiers
 	void push_front(const int& value);
 	void push_back(const int& value);
